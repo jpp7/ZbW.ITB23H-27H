@@ -2,11 +2,11 @@
 
 # GitHub Repository for the ZbW ITB23H-27H Class
 
-Diese Repository dient als ablage für die Gruppenarbeiten der Klasse ITB23H-27H an der ZbW.
+Diese Repository dient als Ablage für die Gruppenarbeiten der Klasse ITB23H-27H an der ZbW.
 
 ## Sortieren
 
-Folgende Sortierungen werden in 2 Gruppen
+Folgende Sortierungen werden in 2 Gruppen erarbeitet und präsentiert.
 
 
 Die Aufgabe ist in der Folie Sortierung zu finden (Seite 10 - 14).
