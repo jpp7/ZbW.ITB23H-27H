@@ -1,6 +1,6 @@
 # ZbW.ITB23H-27H
 
-# GitHub Repository for the ZbW ITB23H-27H Class
+# GitHub Repository für die Klasse ITB23H-27H an der ZbW
 
 Diese Repository dient als Ablage für die Gruppenarbeiten der Klasse ITB23H-27H an der ZbW.
 
